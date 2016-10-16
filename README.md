@@ -1,2 +1,2 @@
 # ee238hw2
-HW2 Java
+ValueIteration Algo in Java(Uses JFreeChart for line plots) and Python(Uses matplotlib for line plots)
